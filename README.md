@@ -1,1 +1,1 @@
-# geometric-omics
+# Geometric Omics

@@ -11,7 +11,6 @@ Geometric Omics is intended to be a powerful, flexible toolkit designed for omic
 - **Elevating Scalability:** Geometric Omics is being designed to accommodate any scale of data, ensuring optimal performance regardless of data size.
 - **Amplifying Learning Resources:** We are set to provide even more extensive tutorials and documentation to ensure you understand and utilize our toolkit effectively, regardless of your level of expertise.
 
-
 ## Usage
 Please refer to the Documentation and our comprehensive Tutorials to learn more about Geometric Omics and how to utilize it for your projects.
 

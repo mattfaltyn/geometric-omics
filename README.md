@@ -1,6 +1,6 @@
-# Geometric Omics: Geometric Toolkit for Omics Data Analysis and Modeling 
+# Geometric Omics
 
-Geometric Omics is intended to be a powerful, flexible toolkit designed for omics data analysis. Leveraging the power of Python, Mojo, and PyTorch, it provides a unique and efficient platform to handle, integrate, and analyze omics data.
+Geometric Omics is intended to be a powerful, flexible toolkit designed for omics data analysis and modeling. 
 
 ##  Vision 
 - **Inspired by Fast.ai:** Building upon the formidable foundation set by [fast.ai](https://docs.fast.ai/), we envision Geometric Omics becoming an even more intuitive and user-friendly platform. Harnessing the strengths of open-source geometric data analysis and modeling projects like [PyTorch](https://pytorch.org/), [PyTorch Geometric](https://pyg.org/), [NetworkX](https://networkx.org/), and more, we are working towards an environment where users at every skill level will be able to focus on deep, insightful analysis and innovative modeling, rather than implementation intricacies.

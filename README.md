@@ -1,23 +1,22 @@
 # Geometric Omics
 
-Geometric Omics is intended to be a powerful, flexible toolkit designed for omics data analysis and modeling. 
+Toolkit for omics network analysis and modeling.
 
-##  Vision 
-- **Inspired by Fast.ai:** Building upon the vision set by [fast.ai](https://docs.fast.ai/), we envision Geometric Omics becoming an intuitive and user-friendly platform for genomics analysis. Harnessing the strengths of open-source geometric data analysis and modeling projects like [PyTorch Geometric](https://pyg.org/), [NetworkX](https://networkx.org/), and more, we are working towards an environment where users at every skill level will be able to focus on deep, insightful analysis and innovative modeling, rather than implementation intricacies.
-- **Streamlining Omics Data Integration:** We will continue to simplify the integration of a broad spectrum of omics data, enabling you to channel your efforts into analysis rather than pre-processing.
-- **Expanding Data Format Compatibility:** Geometric Omics will be enhancing its capacity to work with various popular omics data formats with effortless ease.
-- **Enhancing Interoperability with Leading Bioinformatics Tools:** We are moving towards seamless integration with a wide array of bioinformatics tools, creating a more versatile and customized workflow path.
-- **Customizable Analysis Pipeline:** Geometric Omics will offer you the flexibility to adapt the analysis pipeline to suit your specific needs, allowing you to choose whether to include or exclude different modules according to your project requirements.
-- **Elevating Scalability:** Geometric Omics is being designed to accommodate any scale of data, ensuring optimal performance regardless of data size.
-- **Amplifying Learning Resources:** We are set to provide even more extensive tutorials and documentation to ensure you understand and utilize our toolkit effectively, regardless of your level of expertise.
-
+## Vision 
+- **Network-centric Approach:** Our conviction lies in the transformative power of network analysis methodologies to unlock new insights in omics data.
+- **Inspired by [Fast.ai](https://www.fast.ai/):** Our goal is to make Geometric Omics an intuitive and accessible platform for all, leveraging the capabilities of open-source projects like [PyTorch Geometric](https://pyg.org/), [NetworkX](https://networkx.org/), and more.
+- **Simplified Omics Data Integration:** Our focus is to streamline data integration, saving you from the complexity of pre-processing.
+- **Broadened Data Format Compatibility:** We're committed to effortlessly expanding our support for diverse omics data formats.
+- **Enhanced Interoperability:** We strive for seamless integration with a multitude of bioinformatics tools, enabling more flexible and customized workflows.
+- **Adaptable Analysis Pipeline:** With Geometric Omics, you can tailor the analysis pipeline to meet your project's unique needs.
+- **Superior Scalability:** We're designing Geometric Omics to efficiently manage any data scale, ensuring optimal performance regardless of data size.
+- **Comprehensive Learning Resources:** We pledge to provide extensive tutorials and documentation to help users of all levels effectively understand and utilize our toolkit.
 
 ## Contributing
-Any contributions you make are greatly appreciated. feel free to open an issue in this repository or contact the maintainers.
-
+Any contributions you make are greatly appreciated. Feel free to open an issue in this repository or contact the maintainers.
 
 ## License
 Distributed under the MIT License. 
 
 ## Contact
-If you have any questions, issues, or suggestions, feel free to open an issue in this repository or contact the maintainers.
+If you have any questions, issues, or suggestions, open an issue in this repository or contact the maintainers.

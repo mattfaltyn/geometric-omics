@@ -11,18 +11,13 @@ Geometric Omics is intended to be a powerful, flexible toolkit designed for omic
 - **Elevating Scalability:** Geometric Omics is being designed to accommodate any scale of data, ensuring optimal performance regardless of data size.
 - **Amplifying Learning Resources:** We are set to provide even more extensive tutorials and documentation to ensure you understand and utilize our toolkit effectively, regardless of your level of expertise.
 
-## Usage
-Please refer to the Documentation and our comprehensive Tutorials to learn more about Geometric Omics and how to utilize it for your projects.
 
 ## Contributing
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated. Please refer to our Contributing Guidelines for more information.
+Any contributions you make are greatly appreciated. feel free to open an issue in this repository or contact the maintainers.
+
 
 ## License
-Distributed under the MIT License. See LICENSE for more information.
+Distributed under the MIT License. 
 
 ## Contact
 If you have any questions, issues, or suggestions, feel free to open an issue in this repository or contact the maintainers.
-
-Your ⭐ stars are always appreciated!
-
-Happy coding!
